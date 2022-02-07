@@ -21,7 +21,7 @@ cd ~/artic-ncov2019
 ```
 4. Seleccionar los archivos fastq_pass y enviarlos a Rampart
 ```
-rampart --protocol rampart/ --basecalledPath ~/../genomica_inspi/../../mnt/e/[carpeta_de_interes]/fastq_pass –clearAnnotated
+rampart --protocol rampart/ --basecalledPath ~/../genomica_inspi/../../mnt/e/[carpeta_de_interes]/fastq_pass ––clearAnnotated
 ```
 5.	Abrir en el navegador localhost:3000 para ver barcodes
 
